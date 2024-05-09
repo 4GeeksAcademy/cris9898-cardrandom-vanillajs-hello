@@ -1,1 +1,19 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: green;
+}
+
+.red {
+  color: red;
+  font-size: 80px;
+}
+.black {
+  color: black;
+  font-size: 80px;
+}
+.number {
+  font-size: 80px;
+}
+.reverse {
+  transform: rotateX(-180deg);
+}
